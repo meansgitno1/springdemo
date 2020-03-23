@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+	<datasource id="Db" class="com.hm.spring.factoryspringdemo.GetStringFromDb"></datasource>
+</configs>
